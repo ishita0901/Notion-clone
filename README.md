@@ -6,3 +6,4 @@
 - User Authentication
 - Expandable sidebar
 - Fully collapsable sidebar
+- Full mobile responsiveness
